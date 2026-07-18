@@ -90,6 +90,6 @@ Throughout this project I practiced:
 
 # 👨‍💻 Author
 
-**Diego Henrique da Silva de Carvalho**
+**Diego Henrique**
 
 Java Backend Developer
