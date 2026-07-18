@@ -30,7 +30,7 @@ The main goal of this project is to demonstrate backend development skills using
 
 # 🚀 Technologies
 
-- ☕ Java 21
+- ☕ Java 17
 - 🌱 Spring Boot
 - 🔒 Spring Security
 - 🎫 JWT
